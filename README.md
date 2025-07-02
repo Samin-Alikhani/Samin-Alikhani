@@ -1,7 +1,9 @@
-### Hi there 👋 I am Sam 👩🏻‍💻
+### Hi there 👋 I am Samin 👩🏻‍💻
 
-I am a senior computer science student at University of Texas at San Antonio.
+I recently graduated from University of Texas San Antonio with my bachelor's in computer science. I will be starting my master's in cybersecurity this fall.  
 
-I am currently working on:
+Currently, I'm working on:
 
-**TBD**
+- Building projects for cybersecurity to get more hands on experience. 
+- Keeping my TryHackMe Streak Alive and completing all rooms for SOC Lvl. 1
+- Studying for CCNA (slowly but surely).
