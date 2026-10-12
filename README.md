@@ -16,6 +16,11 @@ My background includes Data Science and AI research internships. I'm building on
 - Matched requests and responses, followed a TCP handshake, and examined TLS 1.3 negotiation.
 - Published display filters, findings, and sanitized packet screenshots.
 
+### [Social Engineering Simulation and Defensive Analysis](https://github.com/Samin-Alikhani/Social-Engineering-Lab-Case-Study)
+- Completed an authorized graduate cyber-range exercise involving a simulated phishing email and lab login interface.
+- Troubleshot DNS resolution, HTTP behavior, Linux file permissions, and a background web service.
+- Documented possible defensive checks for email and browser activity, with sanitized screenshots and clear distinctions between tested results and proposed detections.
+
 ### [Kali Linux Fundamentals](https://github.com/Samin-Alikhani/Kali-Linux-Fundamentals)
 - Practiced Linux system inspection, network configuration, filesystem navigation, and permissions.
 - Documented command interpretation and its relevance to troubleshooting and security analysis.
