@@ -1,4 +1,4 @@
-# Hi, I'm Samin Alikhani
+# Hi 👋🏻, I'm Samin Alikhani
 
 I'm a Security+ certified Computer Science graduate pursuing an M.S. in Cybersecurity at the University of Texas at San Antonio, with an expected graduation in January 2028. I'm focused on **security operations, network security, and defensive investigations**.
 
