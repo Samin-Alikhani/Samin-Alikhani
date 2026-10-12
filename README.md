@@ -4,7 +4,7 @@ I'm a Security+ certified Computer Science graduate pursuing an M.S. in Cybersec
 
 My background includes Data Science and AI research internships. I'm building on that analytical experience through hands-on security labs, with an emphasis on understanding evidence, troubleshooting systems, and documenting findings clearly.
 
-## Featured security projects
+## Featured Security Projects
 
 ### [Windows Authentication Monitoring with Splunk Cloud](https://github.com/Samin-Alikhani/Splunk-Windows-Authentication-Monitoring)
 - Forwarded Windows Security events from a Windows 11 lab VM to Splunk Cloud using the Universal Forwarder.
@@ -20,20 +20,20 @@ My background includes Data Science and AI research internships. I'm building on
 - Practiced Linux system inspection, network configuration, filesystem navigation, and permissions.
 - Documented command interpretation and its relevance to troubleshooting and security analysis.
 
-## Technical foundation
+## Technical Foundation
 
 - **Security monitoring:** Splunk Cloud, SPL, Windows Event Logs, authentication analysis
 - **Networking:** Wireshark, TCP/IP, DNS, ICMP, TCP and TLS fundamentals
 - **Systems:** Windows and Linux lab environments, virtualization
 - **Scripting:** Python and Bash
 
-## Currently developing
+## Currently Developing
 
 - SOC investigation and alert-triage skills
 - Network troubleshooting and packet analysis
 - Networking knowledge through CCNA preparation **(in progress)**
 
-## Opportunities and contact
+## Opportunities and Contact
 
 I'm seeking **cybersecurity internships and entry-level SOC, security operations, or network security roles** in San Antonio, Austin, surrounding areas, or remotely.
 
