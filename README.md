@@ -8,11 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/saminalikhani">LinkedIn</a>
-  &nbsp; | &nbsp;
-  <a href="mailto:samin.alikhani.cs@gmail.com">Email</a>
-  &nbsp; | &nbsp;
-  <a href="#selected-projects">Projects</a>
+  <a href="https://linkedin.com/in/saminalikhani"><img src="./assets/button-linkedin.svg" alt="LinkedIn" width="124" height="40"></a>
+  <a href="mailto:samin.alikhani.cs@gmail.com"><img src="./assets/button-email.svg" alt="Email" width="124" height="40"></a>
+  <a href="#selected-projects"><img src="./assets/button-projects.svg" alt="Projects" width="124" height="40"></a>
 </p>
 
 ---
@@ -91,7 +89,8 @@ My projects explore how security issues arise, how to investigate them, and how 
   </tbody>
 </table>
 
-## More Lab Work
+<details>
+<summary><strong>More Projects</strong></summary>
 
 <p>
   <a href="https://github.com/Samin-Alikhani/Kali-Linux-Fundamentals"><img src="./assets/heading-kali-calibri-v2.svg" alt="Kali Linux Fundamentals" width="227" height="30"></a><br>
@@ -101,6 +100,8 @@ My projects explore how security issues arise, how to investigate them, and how 
   <a href="https://github.com/Samin-Alikhani/Social-Engineering-Lab-Case-Study"><img src="./assets/heading-social-calibri-v2.svg" alt="Social Engineering Lab" width="210" height="30"></a><br>
   Authorized phishing simulation and supporting system troubleshooting.
 </p>
+
+</details>
 
 ## Currently Learning
 
