@@ -1,49 +1,70 @@
-# Hi 👋🏻, I'm Samin Alikhani
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Samin Alikhani — Cybersecurity portfolio" width="100%">
+</p>
 
-I'm a Security+ certified Computer Science graduate pursuing an M.S. in Cybersecurity at the University of Texas at San Antonio, with an expected graduation in January 2028. I'm focused on **security operations, network security, and defensive investigations**.
+<p align="center">
+  <strong>M.S. Cybersecurity · UTSA · Expected December 2027</strong><br>
+  CompTIA Security+ · Former SOC Intern · San Antonio, Texas
+</p>
 
-My background includes Data Science and AI research internships. I'm building on that analytical experience through hands-on security labs, with an emphasis on understanding evidence, troubleshooting systems, and documenting findings clearly.
-
-## Featured Security Projects
-
-### [Windows Authentication Monitoring with Splunk Cloud](https://github.com/Samin-Alikhani/Splunk-Windows-Authentication-Monitoring)
-- Forwarded Windows Security events from a Windows 11 lab VM to Splunk Cloud using the Universal Forwarder.
-- Wrote SPL searches for repeated failed logons and validated a scheduled alert using controlled sign-in attempts.
-- Built a three-panel dashboard and documented detection thresholds, troubleshooting, and limitations.
-
-### [Wireshark Network Traffic Analysis](https://github.com/Samin-Alikhani/Wireshark-Network-Traffic-Analysis)
-- Captured and analyzed DNS, ICMP, TCP, and TLS traffic generated in a controlled lab.
-- Matched requests and responses, followed a TCP handshake, and examined TLS 1.3 negotiation.
-- Published display filters, findings, and sanitized packet screenshots.
-
-### [Social Engineering Simulation and Defensive Analysis](https://github.com/Samin-Alikhani/Social-Engineering-Lab-Case-Study)
-- Completed an authorized graduate cyber-range exercise involving a simulated phishing email and lab login interface.
-- Troubleshot DNS resolution, HTTP behavior, Linux file permissions, and a background web service.
-- Documented possible defensive checks for email and browser activity, with sanitized screenshots and clear distinctions between tested results and proposed detections.
-
-### [Kali Linux Fundamentals](https://github.com/Samin-Alikhani/Kali-Linux-Fundamentals)
-- Practiced Linux system inspection, network configuration, filesystem navigation, and permissions.
-- Documented command interpretation and its relevance to troubleshooting and security analysis.
-
-## Technical Foundation
-
-- **Security monitoring:** Splunk Cloud, SPL, Windows Event Logs, authentication analysis
-- **Networking:** Wireshark, TCP/IP, DNS, ICMP, TCP and TLS fundamentals
-- **Systems:** Windows and Linux lab environments, virtualization
-- **Scripting:** Python and Bash
-
-## Currently Developing
-
-- SOC investigation and alert-triage skills
-- Network troubleshooting and packet analysis
-- Networking knowledge through CCNA preparation **(in progress)**
-
-## Opportunities and Contact
-
-I'm seeking **cybersecurity internships and entry-level SOC, security operations, or network security roles** in San Antonio, Austin, surrounding areas, or remotely.
-
-[Connect with me on LinkedIn](https://linkedin.com/in/saminalikhani)
+<p align="center">
+  <a href="https://linkedin.com/in/saminalikhani">LinkedIn</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:samin.alikhani.cs@gmail.com">Email</a>
+  &nbsp; / &nbsp;
+  <a href="#selected-projects">Projects</a>
+</p>
 
 ---
 
-The projects here document personal and academic lab work. I distinguish observed results from future improvements and share sanitized evidence where appropriate.
+I'm a Computer Science graduate pursuing an M.S. in Cybersecurity at the University of Texas at San Antonio. During my SOC internship, I investigated alerts using Microsoft Defender and Splunk and documented findings for senior analyst review.
+
+My projects explore how security issues arise, how to investigate them, and how to test a fix. I also bring experience in Python data analysis, educational AI development, and customer service.
+
+## Selected projects
+
+### 01 / Application security
+**[Stored XSS Remediation & Validation](https://github.com/Samin-Alikhani/Stored-XSS-Remediation-and-Validation)**
+
+Reproduced stored XSS in a local PHP guestbook and addressed the vulnerable path with URL validation, output encoding, and safe JavaScript DOM construction. The repository includes HTTP and browser regression tests, a threat model, and before-and-after evidence.
+
+`PHP` `JavaScript` `Python` `Playwright` `Secure coding`
+
+### 02 / Security operations
+**[Windows Authentication Monitoring with Splunk](https://github.com/Samin-Alikhani/Splunk-Windows-Authentication-Monitoring)**
+
+Configured a Windows lab to forward authentication events to Splunk Cloud. Developed and tested a failed-logon detection, scheduled alert, and dashboard, with documented troubleshooting and detection limits.
+
+`Splunk Cloud` `SPL` `Windows Event Logs` `Detection testing`
+
+### 03 / Cybersecurity risk
+**[Risk Assessment & Control Mapping](https://github.com/Samin-Alikhani/Cybersecurity-Risk-Assessment-and-Control-Mapping)**
+
+Contributed CIS Controls and NIST framework mapping to a questionnaire-based academic team assessment. The anonymized case study includes risk and evidence registers, proposed remediation, and a separate synthetic-data recovery lab.
+
+`CIS Controls v8` `NIST CSF` `Framework mapping` `Risk documentation`
+
+## Tools & technical foundation
+
+| Area | Tools and applied skills |
+| --- | --- |
+| Security operations | Microsoft Defender, Splunk, SPL, ServiceNow, alert investigation |
+| Networking & systems | Wireshark, Nmap, TCP/IP, Windows, Linux, VMware |
+| Development & data | Python, JavaScript, HTML/CSS, pandas, NumPy, Git/GitHub |
+| Application security | Stored XSS analysis, input validation, output encoding, safe DOM construction |
+
+## More lab work
+
+- **[Wireshark Network Traffic Analysis](https://github.com/Samin-Alikhani/Wireshark-Network-Traffic-Analysis)** — controlled DNS, ICMP, TCP, and TLS analysis.
+- **[Kali Linux Fundamentals](https://github.com/Samin-Alikhani/Kali-Linux-Fundamentals)** — system inspection, permissions, networking, and service discovery.
+- **[Social Engineering Lab](https://github.com/Samin-Alikhani/Social-Engineering-Lab-Case-Study)** — authorized phishing simulation and supporting system troubleshooting.
+
+## Currently learning
+
+Preparing for the **CCNA**, with a focus on networking fundamentals and a longer-term interest in network security.
+
+## Let's connect
+
+I'm interested in **cybersecurity internships and entry-level opportunities** in security operations, application security, and network security.
+
+[LinkedIn](https://linkedin.com/in/saminalikhani) · [Email](mailto:samin.alikhani.cs@gmail.com)
