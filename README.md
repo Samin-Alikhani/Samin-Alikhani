@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner-orange-v2.svg" alt="Samin Alikhani — Cybersecurity portfolio" width="100%">
+  <img src="./assets/profile-banner-shield-v3.svg" alt="Samin Alikhani — Cybersecurity portfolio" width="100%">
 </p>
 
 <p align="center">
