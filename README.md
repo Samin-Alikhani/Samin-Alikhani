@@ -13,7 +13,8 @@ I'm a Computer Science graduate pursuing an M.S. in Cybersecurity at the Univers
 
 My projects explore how security issues arise, how to investigate them, and how to test a fix. I also bring experience in Python data analysis, educational AI development, and customer service.
 
-## Selected Projects
+<a id="selected-projects"></a>
+<h2><img src="./assets/section-selected-projects.svg" alt="Selected Projects" width="219" height="44"></h2>
 
 <table>
   <tr>
@@ -54,7 +55,8 @@ My projects explore how security issues arise, how to investigate them, and how 
   </tr>
 </table>
 
-## Tools & Technical Foundation
+<a id="tools-technical-foundation"></a>
+<h2><img src="./assets/section-tools-technical-foundation.svg" alt="Tools &amp; Technical Foundation" width="373" height="44"></h2>
 
 <table width="100%">
   <thead>
@@ -86,6 +88,8 @@ My projects explore how security issues arise, how to investigate them, and how 
 <details>
 <summary><strong>More Projects</strong></summary>
 
+<p><img src="./assets/section-more-projects.svg" alt="More Projects" width="181" height="44"></p>
+
 <p>
   <a href="https://github.com/Samin-Alikhani/Kali-Linux-Fundamentals"><img src="./assets/heading-kali-calibri-v2.svg" alt="Kali Linux Fundamentals" width="227" height="30"></a><br>
   System inspection, permissions, networking, and service discovery.
@@ -97,11 +101,13 @@ My projects explore how security issues arise, how to investigate them, and how 
 
 </details>
 
-## Currently Learning
+<a id="currently-learning"></a>
+<h2><img src="./assets/section-currently-learning.svg" alt="Currently Learning" width="236" height="44"></h2>
 
 Preparing for the **CCNA**, with a focus on networking fundamentals and a longer-term interest in network security.
 
-## Let's Connect
+<a id="lets-connect"></a>
+<h2><img src="./assets/section-lets-connect.svg" alt="Let's Connect" width="173" height="44"></h2>
 
 I'm interested in **cybersecurity internships and entry-level opportunities** in security operations, application security, and network security.
 
