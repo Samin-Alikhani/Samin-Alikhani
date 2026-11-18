@@ -7,12 +7,6 @@
   CompTIA Security+ · Former SOC Intern · San Antonio, Texas
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/saminalikhani"><img src="./assets/button-linkedin.svg" alt="LinkedIn" width="124" height="40"></a>
-  <a href="mailto:samin.alikhani.cs@gmail.com"><img src="./assets/button-email.svg" alt="Email" width="124" height="40"></a>
-  <a href="#selected-projects"><img src="./assets/button-projects.svg" alt="Projects" width="124" height="40"></a>
-</p>
-
 ---
 
 I'm a Computer Science graduate pursuing an M.S. in Cybersecurity at the University of Texas at San Antonio. During my SOC internship, I investigated alerts using Microsoft Defender and Splunk and documented findings for senior analyst review.
@@ -111,4 +105,6 @@ Preparing for the **CCNA**, with a focus on networking fundamentals and a longer
 
 I'm interested in **cybersecurity internships and entry-level opportunities** in security operations, application security, and network security.
 
-[LinkedIn](https://linkedin.com/in/saminalikhani) · [Email](mailto:samin.alikhani.cs@gmail.com)
+<p>
+  <a href="https://linkedin.com/in/saminalikhani"><img src="./assets/button-linkedin.svg" alt="Connect On LinkedIn" width="124" height="40"></a>
+</p>
