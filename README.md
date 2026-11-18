@@ -60,12 +60,32 @@ My projects explore how security issues arise, how to investigate them, and how 
 
 ## Tools & technical foundation
 
-| Area | Tools and applied skills |
-| --- | --- |
-| Security operations | Microsoft Defender, Splunk, SPL, ServiceNow, alert investigation |
-| Networking & systems | Wireshark, Nmap, TCP/IP, Windows, Linux, VMware |
-| Development & data | Python, JavaScript, HTML/CSS, pandas, NumPy, Git/GitHub |
-| Application security | Stored XSS analysis, input validation, output encoding, safe DOM construction |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%" align="left"><img src="./assets/skills-heading-area.svg" alt="Area" width="220" height="34"></th>
+      <th width="75%" align="left"><img src="./assets/skills-heading-tools.svg" alt="Tools and applied skills" width="660" height="34"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="middle"><strong>Security operations</strong></td>
+      <td><p>Microsoft Defender, Splunk, SPL, ServiceNow, alert investigation</p></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Networking &amp; systems</strong></td>
+      <td><p>Wireshark, Nmap, TCP/IP, Windows, Linux, VMware</p></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Development &amp; data</strong></td>
+      <td><p>Python, JavaScript, HTML/CSS, pandas, NumPy, Git/GitHub</p></td>
+    </tr>
+    <tr>
+      <td valign="middle"><strong>Application security</strong></td>
+      <td><p>Stored XSS analysis, input validation, output encoding, safe DOM construction</p></td>
+    </tr>
+  </tbody>
+</table>
 
 ## More lab work
 
