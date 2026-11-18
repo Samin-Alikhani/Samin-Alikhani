@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Samin Alikhani — Cybersecurity</title>
+<desc id="desc">Dark navy banner with burnt-orange accents, lightweight lettering, and a layered shield representing cybersecurity.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101722"/><stop offset="1" stop-color="#080d16"/></linearGradient>
+</defs>
+<rect width="1200" height="300" rx="18" fill="url(#background)"/>
+<rect x="56" y="56" width="42" height="4" rx="2" fill="#c12b08"/>
+<text x="56" y="101" fill="#d7dce3" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="4">CYBERSECURITY / PORTFOLIO</text>
+<text x="53" y="170" fill="#f4f5f7" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="62" font-weight="300" letter-spacing="-1">Samin Alikhani</text>
+<text x="56" y="215" fill="#bbc3ce" font-family="Arial,Helvetica,sans-serif" font-size="21">Security operations · Application security · Network security</text>
+<line x1="884" y1="58" x2="884" y2="244" stroke="#ffffff" stroke-opacity=".09"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M1030 49C1001 68 976 74 946 78V143C946 196 979 228 1030 252C1081 228 1114 196 1114 143V78C1084 74 1059 68 1030 49Z" stroke="#566171" stroke-opacity=".23" stroke-width="1"/>
+  <path d="M1030 68C1006 84 987 88 964 92V144C964 187 991 214 1030 233C1069 214 1096 187 1096 144V92C1073 88 1054 84 1030 68Z" stroke="#c12b08" stroke-width="2" fill="#c12b08" fill-opacity=".035"/>
+  <path d="M1030 88C1012 99 997 103 981 106V144C981 177 1001 199 1030 214C1059 199 1079 177 1079 144V106C1063 103 1048 99 1030 88Z" stroke="#c12b08" stroke-opacity=".3" stroke-width="1"/>
+  <path d="M1006 150L1022 166L1054 132" stroke="#d6dce5" stroke-width="2"/>
+</g>
+</svg>
