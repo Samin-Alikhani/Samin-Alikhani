@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Samin Alikhani — Cybersecurity portfolio" width="100%">
+  <img src="./assets/profile-banner-orange-v2.svg" alt="Samin Alikhani — Cybersecurity portfolio" width="100%">
 </p>
 
 <p align="center">
@@ -25,31 +25,35 @@ My projects explore how security issues arise, how to investigate them, and how 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <p><sub>01 / APPLICATION SECURITY</sub></p>
-      <h3><a href="https://github.com/Samin-Alikhani/Stored-XSS-Remediation-and-Validation">Stored XSS Remediation &amp; Validation</a></h3>
-      <p>Reproduced stored XSS in a PHP guestbook and remediated the rendering path with URL validation, output encoding, and safe DOM construction. Includes HTTP and browser regression tests.</p>
-      <p><code>PHP</code> <code>JavaScript</code> <code>Python</code> <code>Playwright</code> <code>Secure coding</code></p>
+    <td width="50%" align="center" valign="middle">
+      <p align="center"><br><sub>01 / APPLICATION SECURITY</sub></p>
+      <h3 align="center"><a href="https://github.com/Samin-Alikhani/Stored-XSS-Remediation-and-Validation">Stored XSS Remediation &amp; Validation</a></h3>
+      <p align="center">Reproduced stored XSS in a PHP guestbook and remediated the rendering path with URL validation, output encoding, and safe DOM construction. Includes HTTP and browser regression tests.</p>
+      <p align="center"><code>PHP</code> <code>JavaScript</code> <code>Python</code> <code>Playwright</code> <code>Secure coding</code></p>
+      <p align="center"><br></p>
     </td>
-    <td width="50%" valign="top">
-      <p><sub>02 / SECURITY OPERATIONS</sub></p>
-      <h3><a href="https://github.com/Samin-Alikhani/Splunk-Windows-Authentication-Monitoring">Windows Authentication Monitoring</a></h3>
-      <p>Forwarded Windows authentication events to Splunk Cloud. Developed and tested a failed-logon detection, scheduled alert, and dashboard, with documented troubleshooting.</p>
-      <p><code>Splunk Cloud</code> <code>SPL</code> <code>Windows Event Logs</code> <code>Detection testing</code></p>
+    <td width="50%" align="center" valign="middle">
+      <p align="center"><br><sub>02 / SECURITY OPERATIONS</sub></p>
+      <h3 align="center"><a href="https://github.com/Samin-Alikhani/Splunk-Windows-Authentication-Monitoring">Windows Authentication Monitoring</a></h3>
+      <p align="center">Forwarded Windows authentication events to Splunk Cloud. Developed and tested a failed-logon detection, scheduled alert, and dashboard, with documented troubleshooting.</p>
+      <p align="center"><code>Splunk Cloud</code> <code>SPL</code> <code>Windows Event Logs</code> <code>Detection testing</code></p>
+      <p align="center"><br></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <p><sub>03 / CYBERSECURITY RISK</sub></p>
-      <h3><a href="https://github.com/Samin-Alikhani/Cybersecurity-Risk-Assessment-and-Control-Mapping">Risk Assessment &amp; Control Mapping</a></h3>
-      <p>Contributed CIS and NIST framework mapping to an academic team assessment. The anonymized case study includes risk and evidence registers, proposed remediation, and an independent recovery lab.</p>
-      <p><code>CIS Controls v8</code> <code>NIST CSF</code> <code>Framework mapping</code> <code>Risk documentation</code></p>
+    <td width="50%" align="center" valign="middle">
+      <p align="center"><br><sub>03 / CYBERSECURITY RISK</sub></p>
+      <h3 align="center"><a href="https://github.com/Samin-Alikhani/Cybersecurity-Risk-Assessment-and-Control-Mapping">Risk Assessment &amp; Control Mapping</a></h3>
+      <p align="center">Contributed CIS and NIST framework mapping to an academic team assessment. The anonymized case study includes risk and evidence registers, proposed remediation, and an independent recovery lab.</p>
+      <p align="center"><code>CIS Controls v8</code> <code>NIST CSF</code> <code>Framework mapping</code> <code>Risk documentation</code></p>
+      <p align="center"><br></p>
     </td>
-    <td width="50%" valign="top">
-      <p><sub>04 / NETWORK SECURITY</sub></p>
-      <h3><a href="https://github.com/Samin-Alikhani/Wireshark-Network-Traffic-Analysis">Wireshark Network Traffic Analysis</a></h3>
-      <p>Captured controlled DNS, ICMP, TCP, and TLS traffic. Correlated requests and responses, isolated an HTTPS conversation, and examined its TCP handshake and TLS 1.3 negotiation.</p>
-      <p><code>Wireshark</code> <code>TCP/IP</code> <code>DNS</code> <code>TLS</code> <code>Packet analysis</code></p>
+    <td width="50%" align="center" valign="middle">
+      <p align="center"><br><sub>04 / NETWORK SECURITY</sub></p>
+      <h3 align="center"><a href="https://github.com/Samin-Alikhani/Wireshark-Network-Traffic-Analysis">Wireshark Network Traffic Analysis</a></h3>
+      <p align="center">Captured controlled DNS, ICMP, TCP, and TLS traffic. Correlated requests and responses, isolated an HTTPS conversation, and examined its TCP handshake and TLS 1.3 negotiation.</p>
+      <p align="center"><code>Wireshark</code> <code>TCP/IP</code> <code>DNS</code> <code>TLS</code> <code>Packet analysis</code></p>
+      <p align="center"><br></p>
     </td>
   </tr>
 </table>
