@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Samin Alikhani — Cybersecurity</title>
+<desc id="desc">Navy and teal banner with a subtle network motif. Security operations, application security, and network security.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101f37"/><stop offset="1" stop-color="#081321"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b7d6e3" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+<rect x="56" y="56" width="42" height="4" rx="2" fill="#5ee0c3"/>
+<text x="56" y="101" fill="#7edbcb" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="4">CYBERSECURITY / PORTFOLIO</text>
+<text x="52" y="170" fill="#f5f8fc" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Samin Alikhani</text>
+<text x="56" y="215" fill="#c2cedd" font-family="Arial,Helvetica,sans-serif" font-size="21">Security operations · Application security · Network security</text>
+<g fill="none" stroke="#5ee0c3" stroke-opacity=".3" stroke-width="1.5">
+<path d="M917 71L1041 109L1125 65M1041 109L1101 211L940 227L917 71M940 227L1041 109M1101 211L1165 168"/>
+<circle cx="1041" cy="109" r="42" stroke-opacity=".12"/><circle cx="1041" cy="109" r="66" stroke-opacity=".07"/>
+</g>
+<g fill="#5ee0c3"><circle cx="917" cy="71" r="4"/><circle cx="1041" cy="109" r="7"/><circle cx="1125" cy="65" r="4"/><circle cx="1101" cy="211" r="5"/><circle cx="940" cy="227" r="4"/><circle cx="1165" cy="168" r="3"/></g>
+</svg>
